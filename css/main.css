@@ -1228,21 +1228,21 @@ figcaption {padding-left: 20px;color: #fff; font-family: "Kaushan Script","Lato"
  .textoport::-webkit-scrollbar-track
  {
    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-   border-radius: 7px;
+   border-radius: 5px;
    background-color: gray;
  }
  
  .textoport::-webkit-scrollbar
  {
-   width: 10px;
+   width: 8px;
    background-color: gray;
  }
  
  .textoport::-webkit-scrollbar-thumb
  {
-   border-radius: 7px;
+   border-radius: 5px;
    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
-   background-color: #546d6b;
+   background-color: #fff;
  }
 
  .textlong{
